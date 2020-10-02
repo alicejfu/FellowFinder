@@ -1,2 +1,2 @@
 # ScratchProject
-optional
+THE MAIN BRANCH FOR THIS PROJECT IS CALLED "MAIN"!!! NOT "MASTER" ANYMORE!!!
